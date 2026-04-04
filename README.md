@@ -14,7 +14,7 @@ This project demonstrates the deployment of a **Wazuh Manager** within a hardene
 
 ### 1. Security Event Dashboard
 This dashboard provides a real-time overview of the security posture. As shown, the system has captured over 500 total alerts, including specific tracking for authentication failures.
-![Wazuh Dashboard](Screenshot 2026-01-10 183215.png)
+![Wazuh Dashboard](Screenshot 2026-01-10 183233.png)
 
 ### 2. Endpoint Management
 Successfully integrated a Windows 11 endpoint (`MyLaptop`) as an active agent. The manager is now receiving telemetry, including IP address tracking and OS versioning.
@@ -22,7 +22,7 @@ Successfully integrated a Windows 11 endpoint (`MyLaptop`) as an active agent. T
 
 ### 3. Real-Time Alert Logs
 Detailed breakdown of security events. The logs below capture critical events such as 'Logon Failures' and 'Special Privileges Assigned', which are essential for identifying potential brute-force or privilege escalation attempts.
-![Security Logs](Screenshot 2026-01-10 183337.jpg)
+![Security Logs](Screenshot 2026-01-10 183337.png)
 ---
 
 ## 🛠️ Technical Implementation Highlights
