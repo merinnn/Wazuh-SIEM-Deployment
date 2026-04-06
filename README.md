@@ -14,7 +14,7 @@ This project demonstrates the deployment of a **Wazuh Manager** within a hardene
 
 ### 1. Security Event Dashboard
 This dashboard provides a real-time overview of the security posture. As shown, the system has captured over 500 total alerts, including specific tracking for authentication failures.
-![Wazuh Dashboard](Screenshot 2026-01-10 183233.png)
+![Wazuh Dashboard](Screenshot%202026-01-10%20183233.png))
 
 ### 2. Real-Time Alert Logs
 Detailed breakdown of security events. The logs below capture critical events such as 'Logon Failures' and 'Special Privileges Assigned', which are essential for identifying potential brute-force or privilege escalation attempts.
